@@ -6,7 +6,7 @@ The official 3linic repository
 
 ```
 Frontend: React, Redux, Typescript
-Backend: Node.js, Express
+Backend:  Node.js, Express
 Database: SQL
-
+Tools:    Docker, Parcel, AWS, Vimeo, Cloudinary
 ```
