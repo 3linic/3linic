@@ -6,5 +6,6 @@ The official 3linic repository
 
 ```
 Frontend: React, Redux, Typescript
+Backend: Node.js, Express
 
 ```
