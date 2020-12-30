@@ -1,6 +1,6 @@
 # 3linic
 
-The official 3linic repository
+The official **3linic** repository
 
 # Installation
 
