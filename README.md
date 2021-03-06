@@ -13,9 +13,9 @@ The official **3linic** repository
 # Tech Stack
 
 ```
-Frontend: React, Redux, JavaScript
+Frontend: React, Redux, JavaScript, HTML, CSS
 Backend:  Node.js, Express
-Database: SQL
+Database: PostgreSQL
 Tools:    Docker, Parcel, AWS, Vimeo, Cloudinary
 Payment:  Stripe
 ```
